@@ -4,7 +4,7 @@ linkTitle: medigy-content
 menu:
   main:
     name: "Medigy Content"
-    weight: 2
+    weight: 1
 ---
 
 Medigy Content
